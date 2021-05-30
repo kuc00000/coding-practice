@@ -125,14 +125,12 @@ sequence diagram은 Use case 1,2를 제외하고 각 Use case별로 작성되었
 ![2](https://user-images.githubusercontent.com/11494592/120093669-ba302e00-c156-11eb-9e4b-de7e038cde00.PNG)
 ![3](https://user-images.githubusercontent.com/11494592/120093675-c0bea580-c156-11eb-8814-273140de77a1.PNG)
 위 sequence diagram은 유저가 메인 페이지에 들어왔을 때 각 게시판 별 조회수 기준 상위 3개 게시글을 디스플레이 하는 기능과
-
 유저가 검색창에 검색 키워드를 입력했을 때 그 키워드에 해당하는 게시글들을 디스플레이 하도록 하는 기능,
-
 그리고 메인 페이지에서 후기, 준비, 자유 라는 버튼을 클릭했을 때 클릭한 카테고리에 해당하는 게시글들을 디스플레이 하는 기능을
-
+설명한 sequence diagram입니다.
 ### Use Case 3
 ***
-설명한 sequence diagram입니다.
+
 ![use case 3](https://user-images.githubusercontent.com/11494592/120093676-c4522c80-c156-11eb-93dd-d344f7509d6f.png)
 유저가 게시글을 삭제, 수정, 작성할 때 발생하는 과정을 표현한 sequence diagram입니다.
 ### Use Case 4
