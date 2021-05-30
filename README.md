@@ -149,6 +149,7 @@ sequence diagram은 Use case 1,2를 제외하고 각 Use case별로 작성되었
 게시물에 대한 댓글 작성, 삭제, 수정 그리고 커뮤니티 정책을 위반하는 댓글을 신고하는 기능을 표현한 sequence diagram입니다.
 
 ### Use Case 5
+***
 ![use case 5-1](https://user-images.githubusercontent.com/11494592/120093898-295a5200-c158-11eb-81cb-44b6bdfede4f.png)
 ![use case 5-2](https://user-images.githubusercontent.com/11494592/120093686-cf0cc180-c156-11eb-9dfe-35c73f9909b8.png)
 
