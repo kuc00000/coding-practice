@@ -193,25 +193,23 @@ sequence diagram은 Use case 1,2를 제외하고 각 Use case별로 작성되었
 각 게시글은 신고 버튼이 존재하며, ! 모양을 클릭할 시 해당 게시글을 신고할 수 있습니다.
 ***
 
-## 3. Sequnece Diagram
-
-Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
-
 ## Built With / 누구랑 만들었나요?
 
-* [이름](링크) - 무엇 무엇을 했어요
-* [Name](Link) - Create README.md
+* [kuc00000](https://github.com/kuc00000)
+  * Create README.md
+  * write a part of backend code
+  * make use case
+  * make domain model
+  * make sequence diagram for use case 1,2,4
+  * make Database for project
+* [ohbumjun](https://github.com/ohbumjun)
+  * Write backend code
+  * Implement frontend layout
+  * make use case
+  * make domain model
+  * make sequence diagram for use case 3,5
 
-## Contributiong / 기여
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. / [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 를 읽고 이에 맞추어 pull request 를 해주세요.
-
-## License / 라이센스
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md) file for details / 이 프로젝트는 MIT 라이센스로 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE.md 파일을 참고하세요.
 
 ## Acknowledgments / 감사의 말
 
-* Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
-* Inspiration / 영감
-* etc / 기타
+* 백엔드 개발 경험이 없던 저에게 프론트엔드 개발을 하시면서도 많은 도움을 주시고 많은 시간을 투자해 주신 [ohbumjun](https://github.com/ohbumjun)님께 감사드립니다. 
