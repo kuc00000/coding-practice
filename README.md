@@ -158,10 +158,40 @@ sequence diagram은 Use case 1,2를 제외하고 각 Use case별로 작성되었
 
 
 ## 4. 주요 기능
+***
+![슬라이드2](https://user-images.githubusercontent.com/11494592/120094229-28c2bb00-c15a-11eb-806a-82fe523708f3.JPG)
 
-```
-예시
-```
+산업체 커뮤니티의 메인 페이지 화면입니다. 오른쪽 위 상단에 후기, 자유, 준비
+게시판 등등을 클릭하면 각각 후기, 자유, 준비 게시판에 해당하는 페이지로 넘어갈 수 있습니다.  
+
+***
+![슬라이드3](https://user-images.githubusercontent.com/11494592/120094230-295b5180-c15a-11eb-9dc2-3d0a6f0cbe50.JPG)
+![슬라이드4](https://user-images.githubusercontent.com/11494592/120094231-29f3e800-c15a-11eb-95b2-68d4a7d1d8d5.JPG)
+![슬라이드5](https://user-images.githubusercontent.com/11494592/120094232-2a8c7e80-c15a-11eb-9cf8-f872d438de12.JPG)
+
+메인 페이지에서 각 후기, 자유, 준비 게시판에 대한 Read More 버튼을 클릭해서 각각 후기, 자유, 준비 게시판 페이지로 넘어갈 수 있습니다.
+
+***
+![슬라이드6](https://user-images.githubusercontent.com/11494592/120094234-2b251500-c15a-11eb-945f-66a4a6a26f89.JPG)
+
+메인 페이지에서 스크롤을 내려보면, 위와 같이 각 게시판의 조회수 기준으로 top3에 들어가는 게시물들의 제목이 디스플레이 됩니다. 
+이 페이지에서 각 게시물의 제목을 클릭하면 그 게시물에 해당하는 페이지로 이동합니다.
+***
+![슬라이드7](https://user-images.githubusercontent.com/11494592/120094236-2bbdab80-c15a-11eb-821d-4bf85324b1fc.JPG)
+
+메인 페이지에 디스플레이 된 Top3 게시물 제목 중 하나를 클릭하거나, 각 자유, 후기, 준비 게시판의 게시물 리스트 중 하나를 클릭하면 이와 같이 해당 게시물에 대한 정보가 나타납니다.
+***
+![슬라이드8](https://user-images.githubusercontent.com/11494592/120094237-2bbdab80-c15a-11eb-9df3-32cc87896468.JPG)
+
+각 게시물의 내용 구성은 위와 같습니다.
+
+
+***
+![슬라이드9](https://user-images.githubusercontent.com/11494592/120094238-2c564200-c15a-11eb-8bd0-3fc409df71c2.JPG)
+
+
+각 게시글은 신고 버튼이 존재하며, ! 모양을 클릭할 시 해당 게시글을 신고할 수 있습니다.
+***
 
 ## 3. Sequnece Diagram
 
