@@ -63,7 +63,7 @@
 ***
 ## 2. Domain Models
 
-프로젝트에 사용된 도메인 모델에 대해서는 간단하게 어떠한 responsibility들 있는지 설명하겠습니다.
+프로젝트에 사용된 Domain Model의 responsibility들입니다.
 
 ***
 ### Controller
