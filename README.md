@@ -117,13 +117,18 @@ url을 바꾸었을 때 이에 해당하는 페이지로 이동할 수 있도록
 ***
 
 ## 3. Sequence Diagram
+sequence diagram은 Use case 1,2를 제외하고 각 Use case별로 작성되었습니다.
+각 use case별 sequence Diagram은 다음과 같습니다.
+### Use Case 1,2
 
-왜 이렇게 동작하는지, 설명합니다
-
-```
-예시
-```
-
+![1](https://user-images.githubusercontent.com/11494592/120093668-b8ff0100-c156-11eb-9581-6051aae185eb.PNG)
+![2](https://user-images.githubusercontent.com/11494592/120093669-ba302e00-c156-11eb-9e4b-de7e038cde00.PNG)
+![3](https://user-images.githubusercontent.com/11494592/120093675-c0bea580-c156-11eb-8814-273140de77a1.PNG)
+![use case 3](https://user-images.githubusercontent.com/11494592/120093676-c4522c80-c156-11eb-93dd-d344f7509d6f.png)
+![4](https://user-images.githubusercontent.com/11494592/120093681-cb793a80-c156-11eb-8d0d-e53080ebf4c2.PNG)
+![5](https://user-images.githubusercontent.com/11494592/120093682-cc11d100-c156-11eb-970b-7f1aa7bf7cc9.PNG)
+![6](https://user-images.githubusercontent.com/11494592/120093684-cd42fe00-c156-11eb-90ba-a75f2eb5e9b1.PNG)
+![use case 5-2](https://user-images.githubusercontent.com/11494592/120093686-cf0cc180-c156-11eb-9dfe-35c73f9909b8.png)
 ### 테스트는 이런 식으로 작성하시면 됩니다
 
 ```
