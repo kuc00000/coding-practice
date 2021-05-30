@@ -153,11 +153,10 @@ sequence diagram은 Use case 1,2를 제외하고 각 Use case별로 작성되었
 ![use case 5-2](https://user-images.githubusercontent.com/11494592/120093686-cf0cc180-c156-11eb-9dfe-35c73f9909b8.png)
 
 
-산업체 패키지 후기 및 그 후기에 해당하는 댓글에 대한 작성, 편집, 삭제 기능을 나타낸
+산업체 패키지 후기 및 그 후기에 해당하는 댓글에 대한 작성, 편집, 삭제 기능을 나타낸 sequence diagram입니다.
 
 
-sequence diagram입니다.
-### 테스트는 이런 식으로 작성하시면 됩니다
+## 4. 주요 기능
 
 ```
 예시
