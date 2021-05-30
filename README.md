@@ -117,6 +117,8 @@ url을 바꾸었을 때 이에 해당하는 페이지로 이동할 수 있도록
 ***
 
 ## 3. Sequence Diagram
+
+
 sequence diagram은 Use case 1,2를 제외하고 각 Use case별로 작성되었습니다.
 각 use case별 sequence Diagram은 다음과 같습니다.
 ### Use Case 1,2
@@ -124,6 +126,8 @@ sequence diagram은 Use case 1,2를 제외하고 각 Use case별로 작성되었
 ![1](https://user-images.githubusercontent.com/11494592/120093668-b8ff0100-c156-11eb-9581-6051aae185eb.PNG)
 ![2](https://user-images.githubusercontent.com/11494592/120093669-ba302e00-c156-11eb-9e4b-de7e038cde00.PNG)
 ![3](https://user-images.githubusercontent.com/11494592/120093675-c0bea580-c156-11eb-8814-273140de77a1.PNG)
+
+
 위 sequence diagram은 유저가 메인 페이지에 들어왔을 때 각 게시판 별 조회수 기준 상위 3개 게시글을 디스플레이 하는 기능과
 유저가 검색창에 검색 키워드를 입력했을 때 그 키워드에 해당하는 게시글들을 디스플레이 하도록 하는 기능,
 그리고 메인 페이지에서 후기, 준비, 자유 라는 버튼을 클릭했을 때 클릭한 카테고리에 해당하는 게시글들을 디스플레이 하는 기능을
@@ -132,6 +136,8 @@ sequence diagram은 Use case 1,2를 제외하고 각 Use case별로 작성되었
 ***
 
 ![use case 3](https://user-images.githubusercontent.com/11494592/120093676-c4522c80-c156-11eb-93dd-d344f7509d6f.png)
+
+
 유저가 게시글을 삭제, 수정, 작성할 때 발생하는 과정을 표현한 sequence diagram입니다.
 ### Use Case 4
 ***
@@ -145,6 +151,8 @@ sequence diagram은 Use case 1,2를 제외하고 각 Use case별로 작성되었
 ### Use Case 5
 ![use case 5-1](https://user-images.githubusercontent.com/11494592/120093898-295a5200-c158-11eb-81cb-44b6bdfede4f.png)
 ![use case 5-2](https://user-images.githubusercontent.com/11494592/120093686-cf0cc180-c156-11eb-9dfe-35c73f9909b8.png)
+
+
 산업체 패키지 후기 및 그 후기에 해당하는 댓글에 대한 작성, 편집, 삭제 기능을 나타낸
 
 
