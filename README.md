@@ -138,6 +138,8 @@ sequence diagram은 Use case 1,2를 제외하고 각 Use case별로 작성되었
 ![4](https://user-images.githubusercontent.com/11494592/120093681-cb793a80-c156-11eb-8d0d-e53080ebf4c2.PNG)
 ![5](https://user-images.githubusercontent.com/11494592/120093682-cc11d100-c156-11eb-970b-7f1aa7bf7cc9.PNG)
 ![6](https://user-images.githubusercontent.com/11494592/120093684-cd42fe00-c156-11eb-90ba-a75f2eb5e9b1.PNG)
+
+
 게시물에 대한 댓글 작성, 삭제, 수정 그리고 커뮤니티 정책을 위반하는 댓글을 신고하는 기능을 표현한 sequence diagram입니다.
 
 ### Use Case 5
